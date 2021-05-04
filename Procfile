@@ -1,1 +1,1 @@
-web: link-preview
+web: web: bin/go-getting-started
